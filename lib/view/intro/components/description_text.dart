@@ -16,7 +16,7 @@ class AnimatedDescriptionText extends StatelessWidget {
       duration: const Duration(milliseconds: 200),
       builder: (context, value, child) {
         return Text(
-          'I\'m, Darshil Dobariya, Software Developer passionate '
+          'I\'m, Keyur Dobariya,K Software Developer passionate '
           '${Responsive.isLargeMobile(context) ? '\n' : ''}about building scalable, '
               '${!Responsive.isLargeMobile(context) ? '\n' : ''}user-friendly applications and '
               '${Responsive.isLargeMobile(context) ? '\n' : ''}solving complex problems.'

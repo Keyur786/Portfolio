@@ -19,20 +19,14 @@ List<ExperienceModel> experienceList = [
   ExperienceModel(
     organization: "Striking Solution",
     position: "Software Developer",
-    date: "Jun 2022 – Nov 2023",
+    date: "Jun 2022 – July 2023",
     location: "Surat, India",
     des: """
     
-- Led development and optimization of Android mobile applications, improving performance and ensuring compatibility across multiple devices.
-- Collaborated with cross-functional teams, including UI/UX designers, in Scrum meetings to implement features and enhance user experience, achieving a 20% increase in user satisfaction.
-- Performed rigorous code reviews and testing (Unit, Manual, Component), reducing bugs by 25% and improving code readability by 30%.
-
-Restaurant Ordering System:
-- Spearheaded innovative features for exploring dining options and streamlining menu management, enhancing user engagement and operational productivity for restaurant owners.
-- Planned and implemented a visually appealing user interface using Flutter and Dart, integrating Firebase and Cloud Firestore for real-time data synchronization.
-- Utilized the BloC pattern for efficient state management and adopted MVC architecture for scalability and maintainability.
-- Crafted a comprehensive admin panel and optimized app performance, improving load times by 20% and ensuring smooth user interactions.
-- Integrated secure payment gateways and push notifications, streamlining order processing and improving speed by 15%, boosting customer engagement and retention.
+- Supported integration of AI/ML models within wellness apps, providing routine technical support and troubleshooting for users.
+- Addressed technical issues with wearable SDKs and RESTful APIs, reducing app downtime and resolving critical user issues.
+- Delivered remote support to teams, ensuring data synchronization and improving app performance by resolving complex integration bugs.
+- Key tools: Flutter, TensorFlow Lite, Wearable SDKs, RESTful APIs, Linux.
     """,
   ),
   ExperienceModel(
@@ -41,22 +35,25 @@ Restaurant Ordering System:
     date: "Jan 2022 – Apr 2022",
     location: "Surat, India",
     des: """
-    
-- Designed, developed, and tested cross-platform mobile applications using Flutter and Dart, ensuring compatibility across iOS and Android.
-- Interpreted user interface components by following best practices and established workflows, enhancing overall app quality and user experience.
-- Expanded proficiency in Android SDK, Dart, and RESTful services, gaining hands-on experience in Android application development.
+- Provided support and troubleshooting for cross-platform app deployment, optimizing functionality on Android and iOS.
+- Improved application stability by debugging and integrating Firebase with real-time databases, speeding up response by 30\%.
+- Coordinated with cross-functional teams to resolve integration issues, ensuring efficient application performance.
+- Key tools: Firebase, Flutter, RESTful APIs, UI/UX design.
     """,
   ),
   ExperienceModel(
     organization: "Brainybeam Tech Pvt. Ltd.",
     position: "Data Science Intern",
-    date: "May 2021 – June 2021",
+    date: "May 2021 – July 2021",
     location: "Remote",
     des: """
     
-- Engineered and optimized recommender systems using Python, effectively predicting user preferences with explicit rating data and advanced ML algorithms.
-- Implemented and compared machine learning models (SVD, PMF, NMF) using metrics like Mean Squared Error (MSE) and Cosine Similarity to enhance recommendation accuracy.
-- Conducted cross-validation with exhaustive parameter searches to optimize algorithm performance.
+- Leveraged Jupyter Notebook and Python libraries (Pandas, NumPy, Scikit-learn) to conduct comprehensive data analysis, driving project success and enhancing insights
+- Improved dataset quality by 60\% through effective management and refinement of diverse datasets
+- Optimized dataset performance using feature engineering techniques such as selection and dimensionality reduction
+- Developed a song recommendation system with KNN algorithms, achieving 85\% accuracy to provide personalized song suggestions and enhance user experience
+- Troubleshot data anomalies, improving dataset reliability and reducing errors by 60\%
+- Jupyter Notebook, Python, Pandas, NLU, NLP, NumPy, Scikit-learn, KNN algorithms, feature engineering.
     """,
   ),
 

@@ -14,7 +14,7 @@ class About extends StatelessWidget {
             const Spacer(flex: 2,),
             const DrawerImage(),
             const Spacer(),
-            Text('Darshil Dobariya',style: Theme.of(context).textTheme.titleSmall,),
+            Text('Keyur Dobariya',style: Theme.of(context).textTheme.titleSmall,),
             const SizedBox(height: defaultPadding/4,),
             const Text('Software Developer',
               textAlign: TextAlign.center,
