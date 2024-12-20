@@ -67878,7 +67878,7 @@ K(a){return A.rp(new A.Uu(),B.Q,new A.aD(this.c,this.d,t.Y),t.i)}}
 A.Uu.prototype={
 $3(a,b,c){var s=null,r=t.w,q=A.aF(a,B.t,r).w.a.a<=700?"\n":"",p=!(A.aF(a,B.t,r).w.a.a<=700)?"\n":""
 r=A.aF(a,B.t,r).w.a.a<=700?"\n":""
-return A.cw("I'm, Keyur Dobariya,K Software Developer passionate "+q+"about building scalable, "+p+"user-friendly applications and "+r+"solving complex problems.\nLet's work together and solve challenges!",5,B.b0,A.rm(s,s,B.dq,s,s,s,s,s,s,s,s,b,s,s,s,s,s,!0,s,s,s,s,s,s,s,2))},
+return A.cw("I'm, Keyur Dobariya, Software Developer passionate "+q+"about building scalable, "+p+"user-friendly applications and "+r+"solving complex problems.\nLet's work together and solve challenges!",5,B.b0,A.rm(s,s,B.dq,s,s,s,s,s,s,s,s,b,s,s,s,s,s,!0,s,s,s,s,s,s,s,2))},
 $S:75}
 A.Fj.prototype={
 K(a){var s=null,r=A.d0(20),q=A.a([B.at,B.ch],t.O)
