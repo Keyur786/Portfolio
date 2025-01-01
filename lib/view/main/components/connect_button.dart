@@ -11,7 +11,7 @@ class ConnectButton extends StatelessWidget {
       padding:  const EdgeInsets.symmetric(vertical: defaultPadding),
       child: InkWell(
         onTap: () {
-          launchUrl(Uri.parse('mailto:dobariy5@uwindsor.ca'));
+          launchUrl(Uri.parse('mailto:dobariy4@uwindsor.ca'));
         },
         borderRadius: BorderRadius.circular(defaultPadding +10),
         child: Container(
