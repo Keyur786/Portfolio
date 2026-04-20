@@ -70292,7 +70292,7 @@ K(a){var s=null
 return new A.Ge(B.bu,A.am0(A.eL(A.c([B.xF,A.hm(s,B.M6,B.B,B.bu,s,s,s,s,s,s,s,s,s)],t.p),B.F,B.G)),s)}}
 A.Gg.prototype={
 K(a){var s=null,r=A.dm(50),q=A.c([B.aD,B.d4],t.W)
-return A.hm(s,A.ayi(A.dm(50),A.aln("images/20250605_175422.jpg",B.kb,s,s)),B.B,s,s,new A.cY(s,s,s,r,B.IM,new A.fZ(B.bp,B.b3,B.aG,q,s,s),B.a5),s,100,s,B.Fw,s,s,100)}}
+return A.hm(s,A.ayi(A.dm(50),A.aln("assets/images/20250605_175422.jpg",B.kb,s,s)),B.B,s,s,new A.cY(s,s,s,r,B.IM,new A.fZ(B.bp,B.b3,B.aG,q,s,s),B.a5),s,100,s,B.Fw,s,s,100)}}
 A.pJ.prototype={
 K(a){var s=null
 return new A.eS(B.lz,A.eU(A.c([A.cF(this.c,s,s,B.dX),A.cF(this.d,s,s,s)],t.p),B.F,B.f_),s)}}

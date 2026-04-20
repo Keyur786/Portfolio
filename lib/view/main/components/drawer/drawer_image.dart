@@ -26,7 +26,7 @@ class DrawerImage extends StatelessWidget {
       ),
       child: ClipRRect(
           borderRadius: BorderRadius.circular(50),
-          child: Image.asset('images/20250605_175422.jpg',fit: BoxFit.cover,)),
+          child: Image.asset('assets/images/20250605_175422.jpg',fit: BoxFit.cover,)),
     );
   }
 }
