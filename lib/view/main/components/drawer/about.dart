@@ -16,7 +16,7 @@ class About extends StatelessWidget {
             const Spacer(),
             Text('Keyur Dobariya',style: Theme.of(context).textTheme.titleSmall,),
             const SizedBox(height: defaultPadding/4,),
-            const Text('Software Developer',
+            const Text('AI Engineer',
               textAlign: TextAlign.center,
               style: TextStyle(
                   fontWeight: FontWeight.w200,
